@@ -1,10 +1,13 @@
 udacity-nano project 1
 ===================
 
-A tool to generate a static webpage containing movie info and trailer video links.
+A python script which generates and then opens a static webpage containing 
+movie info and trailer video links.
 
-- to use: run python2 entertainment_center.py in a terminal or open it in your file manager.
+- To use: run python2 entertainment_center.py in a terminal or open it in 
+	your file manager.
 
-- prerequites: python2, webbrowser module
+- In bash/Linux the browser used can be overridden by setting BROWSER= before
+	running.
 
-
+- Prerequisites for running: python2 and the webbrowser module.
